@@ -1,0 +1,16 @@
+footer div{
+    display: inline-flex;
+    padding: 2%;
+}
+
+.footer_logo{
+    padding: 0%;
+    left: 0;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+}
+
+.col-3{
+    display: inline;
+}
